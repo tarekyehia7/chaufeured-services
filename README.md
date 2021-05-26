@@ -1,7 +1,7 @@
-# Getting Started with sixt-chauffeured-services app
+# Getting Started with chauffeured-services app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project is used for sixt task, it shows a search bar to get all offers decided by fields entered by the user
+This project  shows a search bar to get all offers decided by fields entered by the user
 
 ## Project description
 
