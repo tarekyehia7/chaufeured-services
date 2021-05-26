@@ -1,0 +1,13 @@
+/**
+ * -------> Offers
+*/
+export const START_OFFERS_REQUEST = 'START_OFFERS_REQUEST';
+export const RECEIVE_OFFERS_SUCCESS = 'RECEIVE_OFFERS_SUCCESS';
+export const RECEIVE_OFFERS_FAIL = 'RECEIVE_OFFERS_FAIL';
+
+
+/**
+ * * -------> search
+ */
+export const REDIRECT_TO_OFFERS_START = 'REDIRECT_TO_OFFERS_START';
+export const REDIRECT_TO_OFFERS_FAIL = 'REDIRECT_TO_OFFERS_FAIL';
